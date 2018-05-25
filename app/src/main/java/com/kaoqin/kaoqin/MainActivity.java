@@ -10,5 +10,6 @@ public TextView tv;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         tv=(TextView) findViewById(R.id.textView);
+        tv.setText("1111111111");
     }
 }
