@@ -11,5 +11,6 @@ public TextView tv;
         setContentView(R.layout.activity_main);
         tv=(TextView) findViewById(R.id.textView);
         tv.setText("1111111111");
+        tv.setText("22222222222");
     }
 }
